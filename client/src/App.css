@@ -1,0 +1,182 @@
+/* Home Page CSS */
+
+.nav {
+  background-color: #181F1C;
+  padding: 20px;
+  color: #9EA93F;
+  display: flex;
+  justify-content: space-between;
+}
+.nav h1 {
+  margin-left: 100px;
+}
+
+.create-btn {
+  background-color: #9EA93F!important;
+  border: none!important;
+  margin-right: 100px;
+}
+
+.create-btn a {
+  color: #181F1C;
+}
+
+.create-btn a:hover {
+  color: #60712F;
+  text-decoration: none;
+}
+
+.table-container {
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.table-head th {
+  color: #181F1C;
+  width: 200px;
+  text-align: center;
+}
+
+.table td {
+  width: 200px;
+  text-align: center;
+}
+
+.view-btn {
+  background-color: #9EA93F!important;
+  border: none!important;
+}
+
+.view-link {
+  color: #181F1C;
+}
+
+.view-link:hover {
+  color: #60712F;
+  text-decoration: none;
+}
+
+.update-btn {
+  background-color: #9EA93F!important;
+  border: none!important;
+  margin-left: 10px;
+}
+
+.update-link {
+  color: #181F1C;
+}
+
+.update-link:hover {
+  color: #60712F;
+  text-decoration: none;
+}
+
+/* View Pet */
+
+.pet-name-container {
+  background-color: #9EA93F;
+  text-align: center;
+  padding: 20px;
+  text-transform: uppercase;
+}
+
+.home-btn {
+  background-color: #9EA93F!important;
+  border: none!important;
+  margin-left: 10px;
+}
+
+.home-link {
+  color: #181F1C;
+}
+
+.home-link:hover {
+  color: #60712F;
+  text-decoration: none;
+}
+
+.adopt-btn {
+  background-color: #9EA93F!important;
+  border: none!important;
+  margin-left: 10px;
+  color: #181F1C!important;
+}
+
+.adopt-btn:hover {
+  color: #60712F!important;
+}
+
+/* Form */
+
+.submit-btn {
+  background-color: #9EA93F!important;
+  border: none!important;
+  color: #181F1C!important;
+}
+
+.submit-btn:hover {
+  color: #60712F!important;
+}
+
+/* View Pet */
+
+.individual-pet-info {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.individual-pet-info h4 {
+  text-transform: uppercase;
+}
+
+.individual-pet-info h2 {
+  margin: 5px 300px;
+  padding: 10px;
+  background-color: #181F1C;
+  color: #9EA93F;
+  border-radius: 15px;
+}
+
+.pet-view-btn-container {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+/* Form */
+
+.form-container {
+  margin-top: 20px;
+}
+
+.form-group {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.form-btn-container {
+  display: flex;
+  justify-content: center;
+}
+
+/* Add Pet */
+
+.add-container h2 {
+  margin: 20px 300px;
+  padding: 10px;
+  background-color: #181F1C;
+  color: #9EA93F;
+  border-radius: 15px;
+  text-align: center;
+}
+
+/* Update Pet */
+
+.update-pet-name{
+  margin: 20px 300px;
+  padding: 10px;
+  background-color: #181F1C;
+  color: #9EA93F;
+  border-radius: 15px;
+  text-align: center;
+}
